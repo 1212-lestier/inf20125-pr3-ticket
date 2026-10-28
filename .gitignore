@@ -1,4 +1,4 @@
-/code/litros
-/*.out
-/*.err
+/litros
+/tests/*.out
+/tests/*.err
 
